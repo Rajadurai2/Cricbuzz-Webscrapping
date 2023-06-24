@@ -29,9 +29,12 @@ From this script we can
 - I also provide all match links of ipl between 2017 to 2023 in match_links folder
 ```
 ## Sample Input
+-----> url of the match
 
 <img src="https://github.com/Rajadurai2/Cricbuzz-Webscrapping/assets/106241420/c549d4ac-a65b-4614-8c59-900862643a7e" height=600 width=700 >
 
 ## Output
+
+------> csv file
 
 <img src="https://github.com/Rajadurai2/Cricbuzz-Webscrapping/assets/106241420/1363eefe-acd0-4327-8fc1-bc63b54ef98a" >
