@@ -27,3 +27,10 @@ From this script we can
 - We can also scrap other series by changing team names
 - store the scrapped data into csv or excel files
 ```
+## Sample Input
+
+<img src="https://github.com/Rajadurai2/Cricbuzz-Webscrapping/assets/106241420/c549d4ac-a65b-4614-8c59-900862643a7e" height=600 width=700 >
+
+## Output
+
+<img src="https://github.com/Rajadurai2/Cricbuzz-Webscrapping/assets/106241420/1363eefe-acd0-4327-8fc1-bc63b54ef98a" >
