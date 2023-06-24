@@ -228,7 +228,7 @@ def start(url):
 
     # store the dataframe to your files csv or xlsx using to_csv or to_excel 
 
-    #match_commentary_df.to_csv(os.path.join('files/2022',f'{match_name}.csv'),index=False)
+    match_commentary_df.to_csv('result.csv',index=False)
     
 
 
