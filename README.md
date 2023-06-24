@@ -28,6 +28,31 @@ From this script we can
 - store the scrapped data into csv or excel files
 - I also provide all match links of ipl between 2017 to 2023 in match_links folder
 ```
+
+## result.csv  
+
+------> we scraped the following data from the site
+```
+1. Ball_no
+2.Commentry_text
+3.Innings
+4.Team_a
+5.Team_b
+6.Team_a_11
+7.Team_b_11
+8.Team_a_subs
+9.Team_b_subs
+10.Series
+11..Season
+12.Venue
+13.Date
+14.Toss
+15.Winner
+16.player of the match
+17.Toss_winner
+18.Toss_choosen
+```
+
 ## Sample Input
 -----> url of the match
 
